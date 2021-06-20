@@ -7,9 +7,12 @@ Follow instructions: [Jupyter lab installation](https://jupyterlab.readthedocs.i
 > python -m ipykernel install --user --display-name plantjes_kernel --name plantjes_kernel
 ```
 
-
 * Launch `pipenv` shell and start jupyter lab
 ```python
 > pipenv shell
 > jupyter lab
 ```
+
+## Notes
+* Using Firefox, there is a problem regarding selecting markdown as cell type. Remedy: use Chrome instead.
+* 
